@@ -7,8 +7,8 @@ from umqtt.simple import MQTTClient
 import urequests
 
 # --- 1. إعدادات الشبكة والتحديث اللاسلكي (OTA) ---
-WIFI_SSID = "Sherif"
-WIFI_PASSWORD = "@987654321@"
+WIFI_SSID = "شبكة"
+WIFI_PASSWORD = "اص ورد"
 
 # 📡 رابط مستودع GitHub الخاص بك لسحب الكود لاسلكياً
 OTA_URL = "https://githubusercontent.com"
